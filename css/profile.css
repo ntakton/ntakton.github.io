@@ -1,0 +1,90 @@
+.smaller-image { width: 100px; height: 100px; }
+
+.navbar-brand { color: white; }
+
+a.nav-link { color: red; }
+
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #022445;
+  font-family: "Open Sans", Arial, san-serif;
+}
+
+strong {
+  color: #022445;
+}
+
+.navbar {
+  background-color: #022445;
+}
+
+.background-image {
+    background
+
+}
+
+.btn {
+  font-weight:300;
+}
+
+.btn-primary {
+  background: #022445;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #022445;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.fullscreen {
+  height: 100%;
+}
+
+.jumbotron {
+  background-image: url("../img/golden-retriever-puppy-1.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.skillscard {
+  margin-bottom: 20px;
+}
+
+.navbar-brand:hover,
+.navbar-brand:active,
+.navbar-brand:focus,
+.navbar-brand:active:focus {
+  color: white;
+}
+
+.thing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
